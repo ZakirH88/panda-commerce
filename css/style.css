@@ -13,3 +13,10 @@
     border: none;
     text-align: center;
 }
+
+.panda-footer-bg{
+    color: #616161;
+    font-size: 2rem;
+    background: #57837B;
+    text-shadow: #e0e0e0 1px 1px 0; 
+}
